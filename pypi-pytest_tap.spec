@@ -5,7 +5,7 @@
 #
 Name     : pypi-pytest_tap
 Version  : 3.4
-Release  : 33
+Release  : 34
 URL      : https://files.pythonhosted.org/packages/75/cf/0d944bd9be848b5a2a0290d0125fcc3580350a516e869a8e4dc32f6198ef/pytest-tap-3.4.tar.gz
 Source0  : https://files.pythonhosted.org/packages/75/cf/0d944bd9be848b5a2a0290d0125fcc3580350a516e869a8e4dc32f6198ef/pytest-tap-3.4.tar.gz
 Summary  : Test Anything Protocol (TAP) reporting plugin for pytest
